@@ -22,7 +22,7 @@ RFID, 카메라 인식, 음성 제어 기능 등을 활용하여 휠체어 사�
 ### 🧰 개발 도구
 - STM32CubeIDE, Arduino IDE, VS Code
 
-### 🎥 시연 영상
+## 🎥 시연 영상
 [👉 버튼 제어](https://youtube.com/shorts/SQt_mkShKDk)<br>
 [👉 음성인식](https://youtube.com/shorts/iNJ-vfX4VzU)<br>
 [👉 휠체어 우선탑승](https://youtube.com/shorts/i7uu4Uciq9c)<br>
