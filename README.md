@@ -73,6 +73,9 @@ CareLift는 지하철 엘리베이터를 일반인이 먼저 탑승함으로써 
 - **Arduino IDE**
 - **Visual Studio Code (Python, YOLO 모델 포함)**
 
+## 작품 외관
+![image](https://github.com/user-attachments/assets/ab538870-7f00-4324-9f27-d69fce56a7a7)
+
 ## 시연 영상
 - [버튼 제어 시연](https://youtube.com/shorts/SQt_mkShKDk)  
 - [음성 인식 시연](https://youtube.com/shorts/iNJ-vfX4VzU)  
