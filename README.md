@@ -16,7 +16,7 @@ CareLift는 지하철 엘리베이터를 일반인이 먼저 탑승함으로써 
   RFID 카드 리더, 버튼, 부저 및 서보모터 제어
 - **Jetson Nano + 카메라**  
   YOLOv8을 활용한 휠체어 사용자의 실시간 인식
-- **Raspberry Pi 4**  
+- **Raspberry Pi 4(음성인식 클라이언트)**  
   Google STT/TTS API 기반의 명령 인식 및 음성 안내, 서버와 TCP 통신
 - **Raspberry Pi 4(메인 서버)**  
   각 장치와의 TCP 통신을 통해 데이터를 수신·판단하고, 엘리베이터 동작을 제어하는 **메인 서버** 역할
