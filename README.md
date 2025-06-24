@@ -43,7 +43,7 @@ CareLift는 지하철 엘리베이터를 일반인이 먼저 탑승함으로써 
   - 회전 각도는 Duty Cycle로 조절하며, 속도는 각도 간격 및 딜레이로 제어
  
 - **서버 연동**
-  - **ESP8266 Wi-Fi 모듈**을 이용하여 TCP 통신 수
+  - **ESP8266 Wi-Fi 모듈**을 이용하여 TCP 통신 기능 구현
   - 서버로부터 `"ELEVATOR_START"` 명령을 수신하면 `operate_elevator()` 함수를 실행하고,  
     엘리베이터 동작 완료 후 `"ARRIVED_DOWNSTAIRS"` 메시지를 서버로 전송
 
